@@ -1,0 +1,19 @@
+body {
+    background: purple;
+    font-family:Calibri;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+h2 {
+    color: orange;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
