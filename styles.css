@@ -1,19 +1,31 @@
 body {
-    background: purple;
+    background: orange;
     font-family:Calibri;
 }
 
+.assignment img {
+    width:200px;
+    padding:10px;
+}
+
 h1 {
-    color: orange;
+    color: purple;
     text-align: center;
 }
 
 h2 {
-    color: orange;
+    color: purple;
     text-align: center;
 }
 
 p {
-    color: white;
+    color: black;
     text-align: center;
+}
+
+.assignment {
+display: flex;
+padding: 10px;
+margin: 10px;
+background: violet;
 }
