@@ -1,31 +1,37 @@
 body {
-    background: orange;
+    background: navy;
     font-family:Calibri;
 }
 
 .assignment img {
     width:200px;
-    padding:10px;
+    padding:2px;
+    border: 2px solid navy;
+    margin-right:20px;
 }
 
 h1 {
-    color: purple;
+    color: white;
     text-align: center;
 }
 
 h2 {
-    color: purple;
-    text-align: center;
+    color: navy;
+    text-align: left;
 }
 
 p {
-    color: black;
-    text-align: center;
+    color: white;
+    text-align: left;
 }
 
 .assignment {
 display: flex;
 padding: 10px;
 margin: 10px;
-background: violet;
+background: gray;
+}
+
+a {
+text-decoration: none;
 }
