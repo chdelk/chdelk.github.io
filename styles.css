@@ -1,13 +1,14 @@
 body {
-    background: navy;
+    background: sandybrown;
     font-family:Calibri;
 }
 
 .assignment img {
     width:200px;
     padding:2px;
-    border: 2px solid navy;
+    border: 2px solid sandybrown;
     margin-right:20px;
+    border-radius: 5px;
 }
 
 h1 {
@@ -16,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color: navy;
+    color: sandybrown;
     text-align: left;
 }
 
@@ -29,7 +30,10 @@ p {
 display: flex;
 padding: 10px;
 margin: 10px;
-background: gray;
+margin-bottom: 30px;
+background: saddlebrown;
+border-radius: 5px;
+box-shadow: 5px 5px peachpuff;
 }
 
 a {
